@@ -23,7 +23,7 @@ OfficeHub Supplies Inc. is a **fictional Philippine retail company** that sells 
 10. In order to give a better context on the stakeholders about my findings, I used Excel built-in charts to create visualization and communicate the results.
 11. After communicating insights through visualization, I also created recommendations on what the stakeholders should investigate or do next about their business situation.
 
-###❗ Findings
+### ‼️Findings
 - Revenue declined 25.68% YoY in Jan–Jun 2026.
 - June revenue fell 12.12% MoM, the largest decline in the six-month period.
 - South accounted for 57.25% of the total revenue decline.
