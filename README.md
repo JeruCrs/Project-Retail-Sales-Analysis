@@ -34,7 +34,7 @@ OfficeHub Supplies Inc. is a **fictional Philippine retail company** that sells 
 1. Prioritize South region investigation. Focus on the branches, products, and sales volume contributing to the region's decline.
 2. Review underperforming products. Investigate Ergonomic Chair and Mechanical Keyboard performance, focusing on units sold, pricing, discounts, and availability.
 3. Identify the drivers of declining sales volume. Analyze whether the 19.19% reduction in units sold is related to demand, product availability, customer behavior, pricing, or other operational factors.
-
+---
 ### 🛠️ Tools and Technologies
 - Application: Microsoft Excel
 - Data Cleaning: Power Query
